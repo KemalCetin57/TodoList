@@ -1,0 +1,114 @@
+/* Genel Stiller */
+.container {
+    margin-top: 30px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: #333;
+    font-size: 24px;
+}
+
+.user-name-label {
+    display: block;
+    margin-bottom: 15px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+/* GridView Tablolarý */
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, .05);
+}
+
+.table thead th {
+    background-color: #007bff;
+    color: white;
+}
+
+.table td, .table th {
+    vertical-align: middle;
+    text-align: center;
+    padding: 8px;
+    border: 1px solid #dee2e6; /* Hücre kenarlarý için */
+}
+
+    .table td:last-child, .table th:last-child {
+        padding-right: 15px; /* Son sütun için saðdan boþluk */
+    }
+
+/* FooterRow Ýçin Stiller */
+.new-task-row {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    padding: 10px;
+    background-color: #f8f9fa; /* Footer için arka plan rengi */
+    border-top: 2px solid #dee2e6; /* Üst sýnýr */
+    width: 100%; /* Geniþliði tabloya uydur */
+}
+
+    .new-task-row td {
+        flex: 1; /* Tüm hücreler eþit geniþlikte olacak */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .new-task-row .checkbox-cell {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .new-task-row .btn-group {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: auto; /* Buton grubu saða yaslanacak */
+    }
+
+/* Buton Stillleri */
+.btn {
+    margin-right: 5px;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 14px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn-edit {
+    background-color: #4CAF50;
+}
+
+    .btn-edit:hover {
+        background-color: #45a049;
+    }
+
+.btn-save {
+    background-color: #2196F3;
+}
+
+    .btn-save:hover {
+        background-color: #0b7dda;
+    }
+
+.btn-cancel {
+    background-color: #f44336;
+}
+
+    .btn-cancel:hover {
+        background-color: #da190b;
+    }
+
+.btn-delete {
+    background-color: #f44336;
+}
+
+    .btn-delete:hover {
+        background-color: #da190b;
+    }

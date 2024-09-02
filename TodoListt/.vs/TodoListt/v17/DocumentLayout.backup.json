@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kemal\\source\\repos\\TodoListt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A288AF23-425E-4131-BF79-3B2161FA310F}|TodoListt\\TodoListt.csproj|c:\\users\\kemal\\source\\repos\\todolistt\\todolistt\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A288AF23-425E-4131-BF79-3B2161FA310F}|TodoListt\\TodoListt.csproj|solutionrelative:todolistt\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288AF23-425E-4131-BF79-3B2161FA310F}|TodoListt\\TodoListt.csproj|c:\\users\\kemal\\source\\repos\\todolistt\\todolistt\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A288AF23-425E-4131-BF79-3B2161FA310F}|TodoListt\\TodoListt.csproj|solutionrelative:todolistt\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288AF23-425E-4131-BF79-3B2161FA310F}|TodoListt\\TodoListt.csproj|c:\\users\\kemal\\source\\repos\\todolistt\\todolistt\\tema\\assets\\css\\todolist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A288AF23-425E-4131-BF79-3B2161FA310F}|TodoListt\\TodoListt.csproj|solutionrelative:todolistt\\tema\\assets\\css\\todolist.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A288AF23-425E-4131-BF79-3B2161FA310F}|TodoListt\\TodoListt.csproj|c:\\users\\kemal\\source\\repos\\todolistt\\todolistt\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A288AF23-425E-4131-BF79-3B2161FA310F}|TodoListt\\TodoListt.csproj|solutionrelative:todolistt\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\kemal\\source\\repos\\TodoListt\\TodoListt\\Login.aspx",
+              "RelativeDocumentMoniker": "TodoListt\\Login.aspx",
+              "ToolTip": "C:\\Users\\kemal\\source\\repos\\TodoListt\\TodoListt\\Login.aspx",
+              "RelativeToolTip": "TodoListt\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-31T12:52:09.651Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\kemal\\source\\repos\\TodoListt\\TodoListt\\Site.Master",
+              "RelativeDocumentMoniker": "TodoListt\\Site.Master",
+              "ToolTip": "C:\\Users\\kemal\\source\\repos\\TodoListt\\TodoListt\\Site.Master",
+              "RelativeToolTip": "TodoListt\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-02T09:22:00.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kemal\\source\\repos\\TodoListt\\TodoListt\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "TodoListt\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\kemal\\source\\repos\\TodoListt\\TodoListt\\Login.aspx.cs",
+              "RelativeToolTip": "TodoListt\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:13:23.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "todolist.css",
+              "DocumentMoniker": "C:\\Users\\kemal\\source\\repos\\TodoListt\\TodoListt\\tema\\assets\\css\\todolist.css",
+              "RelativeDocumentMoniker": "TodoListt\\tema\\assets\\css\\todolist.css",
+              "ToolTip": "C:\\Users\\kemal\\source\\repos\\TodoListt\\TodoListt\\tema\\assets\\css\\todolist.css",
+              "RelativeToolTip": "TodoListt\\tema\\assets\\css\\todolist.css",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAmwMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-02T08:27:28.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

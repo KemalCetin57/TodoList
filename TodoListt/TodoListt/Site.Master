@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><asp:ContentPlaceHolder ID="titlecontent" runat="server"></asp:ContentPlaceHolder></title>
+    
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Yellowtail&display=swap" rel="stylesheet">
+    
+    <!-- CSS Files -->
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.12.4/dist/sweetalert2.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="tema/assets/css/vendors/font-awesome.css">
+    <link rel="stylesheet" type="text/css" href="tema/assets/css/vendors/slick.css">
+    <link rel="stylesheet" type="text/css" href="tema/assets/css/vendors/slick-theme.css">
+    <link rel="stylesheet" type="text/css" href="tema/assets/css/vendors/animate.css">
+    <link rel="stylesheet" type="text/css" href="tema/assets/css/vendors/themify-icons.css">
+    <link rel="stylesheet" type="text/css" href="tema/assets/css/vendors/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="tema/assets/css/style.css">
+    
+    <!-- Todolist sayfası için özel CSS dosyasının dahil edilmesi -->
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <!-- Main Content -->
+    <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+    
+    <asp:ContentPlaceHolder ID="scriptcontent" runat="server" />
+
+    <!-- JavaScript Files -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.12.4/dist/sweetalert2.all.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/js/bootstrap.bundle.min.js"></script>
+
+    <script src="tema/assets/js/menu.js"></script>
+    <script src="tema/assets/js/lazysizes.min.js"></script>
+    <script src="tema/assets/js/slick.js"></script>
+    <script src="tema/assets/js/bootstrap-notify.min.js"></script>
+    <script src="tema/assets/js/theme-setting.js"></script>
+    <script src="tema/assets/js/script.js"></script>
+</body>
+</html>
